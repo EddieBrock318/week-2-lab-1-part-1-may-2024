@@ -6,7 +6,7 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 
 ### Instructions
 
-1. Have a look at cats.html. (You will want to re-type this in dogs.html.)
+1. Have a look at dogs.html. (You will want to re-type this in cats.html.)
 2. Start with the H1 tag and first P tag.
 3. Add your own text about dogs in the H1 and P tags
 4. Add EM and STRONG tags in the first P tag
@@ -26,8 +26,8 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [x] Create Readme
 - [x] Create index.html
 - [x] Create cats.html
-- [ ] Update README author
-- [ ] Create dogs.html
+- [x] Update README author
+- [x] Create dogs.html
 - [ ] Create an H1 tag in dogs.html
 - [ ] Create a P tag in dogs.html
 - [ ] Create an ARTICLE tag in dogs.html
@@ -45,7 +45,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: edward.ashley@codex.academy
 
 ## Acknowledgements
 
